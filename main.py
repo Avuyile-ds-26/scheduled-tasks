@@ -39,3 +39,4 @@ if today_tuple in birthdays_dict:
             msg=f"Subject:Happy Birthday!\n\n{contents}"
         )
 
+print("Email sent!")
